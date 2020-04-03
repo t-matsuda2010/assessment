@@ -1,4 +1,4 @@
-`use strict`;
+`use strict`; 
 const usernameInput = document.getElementById(`user-name`);
 const assesmentButton = document.getElementById(`assesment`);
 const resultDivided = document.getElementById(`result-area`);
